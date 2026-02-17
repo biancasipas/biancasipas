@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhzbHQ4MjdzYnByeW9nbzZtNWx5YTN3bGpvMjZyd3J0MnY2bmg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaejXuApKUUD3cl8ca/giphy.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Bianca Maria"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbDZzZmlzNTdvbm01NzM3ZXc0dXF1dGM4eXo1aGk3Z2F1YW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaejXuApKUUD3cl8ca/giphy.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Bianca Maria"/>
 
 ##### **`Ciência da Computação`** **`Pós-graduação em Desenvolvimento Full Stack`**
 
