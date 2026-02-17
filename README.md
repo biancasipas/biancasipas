@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bianca Maria
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhzbHQ4MjdzYnByeW9nbzZtNWx5YTN3bGpvMjZyd3J0MnY2bmg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaejXuApKUUD3cl8ca/giphy.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Bianca Maria"/>
 
 ##### **`Ciência da Computação`** **`Pós-graduação em Desenvolvimento Full Stack`**
 
@@ -26,4 +26,8 @@ Olá, sou Bianca Maria, Desenvolvedora de Software, bacharel em Ciência da Comp
   <a href = "mbianca285@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-mariafernaalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+<div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ5NDh4bjZyYmx1YXIxdzcybGh5eHZlenhubG9xdGtvdmUxeGtqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" />
 </div>
