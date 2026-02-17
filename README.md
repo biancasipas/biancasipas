@@ -1,4 +1,5 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbDZzZmlzNTdvbm01NzM3ZXc0dXF1dGM4eXo1aGk3Z2F1YW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaejXuApKUUD3cl8ca/giphy.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Bianca Maria"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
 ##### **`Ciência da Computação`** **`Pós-graduação em Desenvolvimento Full Stack`**
 
@@ -31,5 +32,4 @@ Olá, sou Bianca Maria, Desenvolvedora de Software, bacharel em Ciência da Comp
 <div>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ5NDh4bjZyYmx1YXIxdzcybGh5eHZlenhubG9xdGtvdmUxeGtqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbDZzZmlzNTdvbm01NzM3ZXc0dXF1dGM4eXo1aGk3Z2F1YW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YaejXuApKUUD3cl8ca/giphy.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Bianca Maria"/>
 </div>
